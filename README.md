@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=200&section=header&text=Thanks%20for%20visiting!&fontColor=auto&fontSize=64)
 
 > [!Important]
-> 프론트엔드 개발자로 준비하고 있습니다! 방문해주셔서 감사하며, 오늘 하루 행복하시길 바랍니다. 😊
+> 방문해주셔서 감사하며, 오늘 하루 행복하시길 바랍니다. 😊
 
 
 **🏷️카테고리**
