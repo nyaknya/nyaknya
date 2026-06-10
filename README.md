@@ -12,6 +12,5 @@
 
 **⬇️Ongoing project**
 
-`https://github.com/nyaknya/light-portfolio`
-
 `https://github.com/nyaknya/-study-devtime`
+`https://github.com/nyaknya/-study-nest-travel`
